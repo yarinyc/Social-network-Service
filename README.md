@@ -1,4 +1,4 @@
-# Social-network-Service
+# Social Network Service
 Social network Service - Multi Threaded Java Server And A C++ Client
 
 ## Description:
